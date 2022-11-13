@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CODER-BHUVANESWARI
-- 👀 I’m interested in TECHNOLOGY
-- 🌱 I’m currently learning CODING
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 
 
 
